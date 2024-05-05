@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\crisi\Desktop\Now Learning\HostelReservationSystem\main.cpp(133): warning C4701: potentially uninitialized local variable 'totalBedAvailable' used
+  HostelReservationSystem.vcxproj -> C:\Users\crisi\Desktop\Now Learning\HostelReservationSystem\x64\Debug\HostelReservationSystem.exe

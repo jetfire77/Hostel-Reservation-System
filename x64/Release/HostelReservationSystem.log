@@ -1,0 +1,8 @@
+﻿  main.cpp
+  Generating code
+C:\Users\crisi\Desktop\Now Learning\HostelReservationSystem\main.cpp(133): warning C4701: potentially uninitialized local variable 'totalBedAvailable' used
+  184 of 188 functions (97.9%) were compiled, the rest were copied from previous compilation.
+    177 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HostelReservationSystem.vcxproj -> C:\Users\crisi\Desktop\Now Learning\HostelReservationSystem\x64\Release\HostelReservationSystem.exe

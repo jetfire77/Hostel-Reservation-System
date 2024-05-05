@@ -1,0 +1,4 @@
+C:\Users\crisi\Desktop\Now Learning\HostelReservationSystem\x64\Debug\HostelReservationSystem.vcxproj.MdMergeInputs.cache
+C:\Users\crisi\Desktop\Now Learning\HostelReservationSystem\x64\Debug\HostelReservationSystem.vcxproj.cppwinrt_plat.cache
+C:\Users\crisi\Desktop\Now Learning\HostelReservationSystem\x64\Debug\HostelReservationSystem.vcxproj.cppwinrt_comp.cache
+C:\Users\crisi\Desktop\Now Learning\HostelReservationSystem\x64\Debug\HostelReservationSystem.exe
